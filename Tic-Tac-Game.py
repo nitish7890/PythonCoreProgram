@@ -1,3 +1,9 @@
+"""
+   @ Author - Nitish kumar Mehta
+   @ Date - 09-nov-2021
+   @ Time - 12:10
+   @ Title - Sum of three Integer adds to ZERO
+"""
 #Implementation of Two Player Tic-Tac-Toe game in Python.
 
 ''' We will make the board using dictionary 
