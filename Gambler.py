@@ -1,3 +1,9 @@
+"""
+   @ Author - Nitish kumar Mehta
+   @ Date - 07-nov-2021
+   @ Time - 10:40
+   @ Title - Sum of three Integer adds to ZERO
+"""
 import math
 
 def GamblerGame(N,stack,goal):
