@@ -1,3 +1,9 @@
+"""
+   @ Author - Nitish kumar Mehta
+   @ Date - 05-nov-2021
+   @ Time - 10:40
+   @ Title - Sum of three Integer adds to ZERO
+"""
 def find_triples(arr, n):
     found = True
     count = 0
